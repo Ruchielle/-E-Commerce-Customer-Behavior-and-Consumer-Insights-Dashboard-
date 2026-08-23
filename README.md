@@ -18,8 +18,11 @@ Before creating the dashboard the raw data was reviewed and cleaned to ensure th
 Here are the steps that i took:
  - Column review 
     - All 18 columns were reviewed to determine which fields were relevant to the business objectives.
+ - Removed Irrelevant Columns 
+    - Two columns were removed because they were not relevant to the project’s shopping behavior focus and they are: 
+	    1.OTT Subscription
+	    2.Book Type
 
- - Removed Irrelevant Columns
  - Handled Missing Values 
  - Duplicate Check 
  - Age data Cleaning 
