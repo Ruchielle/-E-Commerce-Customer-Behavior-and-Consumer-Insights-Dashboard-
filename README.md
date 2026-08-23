@@ -14,3 +14,10 @@ This is an E-commerce Customer behavior and consumer insight Dashboard built wit
 
 
 ### Data Cleaning and transformation 
+Before creating the dashboard the raw data was reviewed and cleaned to ensure that the analysis and visualization were reliable. 
+Here are the steps that i took:
+ - Column review 
+ - Removed Irrelevant Columns
+ - Handled Missing Values 
+ - Duplicate Check 
+ - Age data Cleaning 
