@@ -28,7 +28,7 @@ Here are the steps that i took:
     - Long survey question fields were renamed into shorter, professional column names to improve readability within the Power BI data model.
 
  - Handled Missing Values 
-This prevented missing responses from being incorrectly interpreted as blank records,missing values were addressed as follows:
+  - This prevented missing responses from being incorrectly interpreted as blank records,missing values were addressed as follows:
 	 - Missing City values → Unknown
 	 - Missing Electronics Preference values → Not Applicable
 	 - Missing Fashion Preference values → Not Applicable
@@ -39,7 +39,7 @@ This prevented missing responses from being incorrectly interpreted as blank rec
     - The dataset was checked for duplicate rows an no duplicate rows were identified.
 
  - Age data Cleaning 
-The Age column required additional cleaning.
+  - The Age column required additional cleaning.
    - One entry recorded as "50 years" and was corrected to 50
    - An invalid entry containing the name "Anurag Dubey" was found in the Age field and replaced with a blank/null value.
    - The Age column was then converted from text to a whole number in Power Query and this also resolved downstream DAX comparison issues.
