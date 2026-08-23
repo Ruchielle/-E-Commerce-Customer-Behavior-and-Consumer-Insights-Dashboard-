@@ -28,5 +28,12 @@ Here are the steps that i took:
     - Long survey question fields were renamed into shorter, professional column names to improve readability within the Power BI data model.
 
  - Handled Missing Values 
+This prevented missing responses from being incorrectly interpreted as blank records,missing values were addressed as follows:
+	 - Missing City values → Unknown
+	 - Missing Electronics Preference values → Not Applicable
+	 - Missing Fashion Preference values → Not Applicable
+     - Missing Clothing Preference values → Not Applicable
+
+
  - Duplicate Check 
  - Age data Cleaning 
