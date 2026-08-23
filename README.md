@@ -13,10 +13,12 @@ This is an E-commerce Customer behavior and consumer insight Dashboard built wit
  - Power BI - Dashboard development, slicers and dat visualization.
 
 
-### Data Cleaning and transformation 
+### Data Cleaning and Transformation 
 Before creating the dashboard the raw data was reviewed and cleaned to ensure that the analysis and visualization were reliable. 
 Here are the steps that i took:
  - Column review 
+    - All 18 columns were reviewed to determine which fields were relevant to the business objectives.
+
  - Removed Irrelevant Columns
  - Handled Missing Values 
  - Duplicate Check 
