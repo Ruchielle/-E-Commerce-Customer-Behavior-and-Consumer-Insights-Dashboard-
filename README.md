@@ -8,4 +8,6 @@ This is an E-commerce Customer behavior and consumer insight Dashboard built wit
 
 
 ### Tools 
- - Power query 
+ - Power query - Data cleaning, transformation, text trimming and conditional columns. 
+ - Dax - KPI measures, calculated columns and aggregation. 
+ - Power BI - Dashboard development, slicers and dat visualization.
