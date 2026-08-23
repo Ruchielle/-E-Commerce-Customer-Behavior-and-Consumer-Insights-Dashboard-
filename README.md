@@ -20,7 +20,7 @@ Here are the steps that i took:
     - All 18 columns were reviewed to determine which fields were relevant to the business objectives.
  - Removed Irrelevant Columns 
     - Two columns were removed because they were not relevant to the project’s shopping behavior focus and they are: 
-	    1.OTT Subscription
+	    1. OTT Subscription
 	    2.Book Type
 
  - Handled Missing Values 
