@@ -36,4 +36,11 @@ This prevented missing responses from being incorrectly interpreted as blank rec
 
 
  - Duplicate Check 
+    - The dataset was checked for duplicate rows an no duplicate rows were identified.
+
  - Age data Cleaning 
+The Age column required additional cleaning.
+   - One entry recorded as: 50 years and was corrected to:50
+   - An invalid entry containing the name: Anurag Dubey,was found in the Age field and replaced with a blank/null value.
+   - The Age column was then converted from text to a whole number in Power Query and this also resolved downstream DAX comparison issues.
+
