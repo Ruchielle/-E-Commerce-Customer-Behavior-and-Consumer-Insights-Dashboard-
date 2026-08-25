@@ -47,6 +47,22 @@ The main objectives of this project were to:
       - What form did the results take?
            - The results were presented as an interactive Microsoft Power BI dashboard containing KPI cards, charts, and visual breakdowns of customer behavior and purchasing patterns. The dashboard provides insights into high-value customer segments, product preferences, and potential growth opportunities.
 
+
+
+### Key Metrics
+ - Total Customers
+      - Measures the total number of customers analyzed in the dataset.
+ - Average Spending 
+      - Shows the average amount spent by customers and helps indicate overall customer value.
+ - Average Shopping Frequency
+      - Shows how often customers shop and helps measure customer engagement.
+ - Brand Preference
+      - Identifies the brands most preferred by customers and highlights customer preferences.
+ - Top Product Category
+      - Identifies the product category with the highest customer preference or demand
+
+
+
 ### Data Cleaning and Transformation 
 Before creating the dashboard the raw data was reviewed and cleaned to ensure that the analysis and visualization were reliable. 
 Here are the steps that i took:
@@ -68,7 +84,6 @@ Here are the steps that i took:
 	 - Missing Fashion Preference values → Not Applicable
      - Missing Clothing Preference values → Not Applicable
 
-
  - Duplicate Check 
     - The dataset was checked for duplicate rows an no duplicate rows were identified.
 
@@ -79,20 +94,50 @@ Here are the steps that i took:
       - The Age column was then converted from text to a whole number in Power Query and this also resolved downstream DAX comparison issues.
 
 
+
 ### Exploratry Data Analysis 
  - Who are our customers? 
      - What age, gender, income level, and location make up our customer base?
+
  - How often do customers shop, and who shops the most? 
      - Which age group and income group are the most active buyers?
+ 
  - How much do customers spend, and who are the high value customers? 
      - Which segments are Low, Medium, or High spenders, and where are they concentrated. 
+ 
  - What do customers prefer to buy? 
      - Which product categories are most popular overall, and does that preference change by gender?
+ 
  - Do customers care more about brand or price? 
      - Are they loyal to brands, or are they price driven shoppers?
+ 
  - How fast do customers decide to buy? 
      - Do they make quick decisions, or take time to research before purchasing?
+ 
  - Where are our customers located, and what kind of city do they live in? 
      - Which states have the most customers, and are they in big cities (Tier 1) or smaller ones (Tier 2/3)?
 
 
+
+### Key Insights and Visuals
+ - Product Category Distribution 
+     - Clothing is the strongest product category
+           - The Product Category visual shows that Clothing had the highest number of respondents, with 85 customers selecting it as their preferred product category.
+
+ - Spending Category by City Tier 
+      - Medium spenders represent the biggest opportunity
+           - The Spending Category by City Tier visual shows that medium-spending customers (customers who spend between 1,000 and 5,000) form the largest spending group across every city tier. Tier 2 is particularly important, with 46.7% of respondents falling into the medium-spending category.
+
+ - Shopping Frequency by Age Group 
+      - Younger customers shop more frequently
+             - The Shopping Frequency by Age Group visual shows that shopping frequency is strongest among customers aged 20–39, while customers aged 50+ have the lowest average shopping frequency.
+
+ - Product Category by Gender 
+      - Gender influences secondary product preferences
+              - The Product Category by Gender visual shows that both men and women prefer Clothing, but their secondary preferences differ:
+                   - Men Electronics
+                   - Women Fashion
+
+ - Purchase Decision Time 
+     - Most customers make purchasing decisions quickly
+            - The Purchase Decision Time visual shows that the majority of customers make their purchasing decisions within a day, indicating relatively short consideration periods for many products.
