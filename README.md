@@ -130,14 +130,14 @@ Here are the steps that i took:
 
  - Shopping Frequency by Age Group 
       - Younger customers shop more frequently
-             - The Shopping Frequency by Age Group visual shows that shopping frequency is strongest among customers aged 20–39, while customers aged 50+ have the lowest average shopping frequency.
+           - The Shopping Frequency by Age Group visual shows that shopping frequency is strongest among customers aged 20–39, while customers aged 50+ have the lowest average shopping frequency.
 
  - Product Category by Gender 
       - Gender influences secondary product preferences
-              - The Product Category by Gender visual shows that both men and women prefer Clothing, but their secondary preferences differ:
-                     - Men Electronics
-                     - Women Fashion
+           - The Product Category by Gender visual shows that both men and women prefer Clothing, but their secondary preferences differ:
+                - Men Electronics
+                - Women Fashion
 
  - Purchase Decision Time 
       - Most customers make purchasing decisions quickly
-             - The Purchase Decision Time visual shows that the majority of customers make their purchasing decisions within a day, indicating relatively short consideration periods for many products.
+           - The Purchase Decision Time visual shows that the majority of customers make their purchasing decisions within a day, indicating relatively short consideration periods for many products.
