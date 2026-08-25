@@ -3,18 +3,17 @@
 
 ## Table of Content 
  - [Projects Overview](#projectoverview)
-2. Project Objective
-3. Tools Used
-4. Workflow
-5. Data Workflow
-6. Key Metrics
-7. Data Cleaning & Transformation
-8. Exploratory Data Analysis (EDA)
-9. Key Insights & Visuals
-10. Recommendations
-11. Assumptions
-12. Limitations
-13. Author
+ - [Project Objective](#projectobjective)
+ - [Tools](#tools) 
+ - [Data Workflow](#dataworkflow) 
+ - [Key Metrics](#keymetrics)
+ - [Data Cleaning and Transformation](#datacleaningandtransformation)
+ - [Exploratory Data Analysis](#eploratorydatanalysis)
+ - [Key Insights and Visuals](#keyinsightsandvisuals)
+ - [Recommendations](#recommendation)
+ - [Assumptions](#assumptions)
+ - [Limitations](#limitations)
+ - [Author](#author)
 
 
 ### Project Overview 
@@ -191,3 +190,6 @@ Here are the steps that i took:
  - 31 City values were missing, which limited complete geographical analysis.
  - The dataset does not contain detailed transaction level information, limiting the ability to assess actual revenue contribution, purchase value, or customer lifetime value.
  - The dataset focuses on customers in India, so the findings may not directly apply to other markets.
+
+
+### Author 
