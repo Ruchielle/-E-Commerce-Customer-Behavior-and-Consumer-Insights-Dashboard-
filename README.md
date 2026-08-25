@@ -129,14 +129,14 @@ Here are the steps that i took:
            - The Spending Category by City Tier visual shows that medium-spending customers (customers who spend between 1,000 and 5,000) form the largest spending group across every city tier. Tier 2 is particularly important, with 46.7% of respondents falling into the medium-spending category.
 
  - Shopping Frequency by Age Group 
-       - Younger customers shop more frequently
+      - Younger customers shop more frequently
              - The Shopping Frequency by Age Group visual shows that shopping frequency is strongest among customers aged 20–39, while customers aged 50+ have the lowest average shopping frequency.
 
  - Product Category by Gender 
-       - Gender influences secondary product preferences
+      - Gender influences secondary product preferences
               - The Product Category by Gender visual shows that both men and women prefer Clothing, but their secondary preferences differ:
-                    - Men Electronics
-                    - Women Fashion
+                     - Men Electronics
+                     - Women Fashion
 
  - Purchase Decision Time 
       - Most customers make purchasing decisions quickly
