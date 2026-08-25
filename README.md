@@ -5,7 +5,7 @@ An e-commerce retail business, wanted to better understand its customers and the
 Using Power BI, this project analyzes data from 254 customers to uncover key purchasing patterns, identify high-value customer segments, and highlight growth opportunities that can support more targeted marketing, product, and business decisions.
 
 
-###Project Objectives 
+### Project Objectives 
 The main objectives of this project were to:
  - Understand customer purchasing behavior patterns.
  - Identify high value customer segments.
@@ -21,6 +21,31 @@ The main objectives of this project were to:
  - Dax - KPI measures, calculated columns and aggregation. 
  - Power BI - Dashboard development, slicers and dat visualization.
 
+
+### Data Workflow 
+ - Source 
+    - Where did the data come from?
+        - The dataset was sourced from Kaggle and contains 254 e-commerce customer records with information on customer demographics, shopping behavior, product preferences, spending, and other customer attributes.
+
+ - Ingestion 
+     - How was the data brought in?
+         - The dataset was imported into Microsoft Power BI for data preparation, modeling, analysis, and visualization.
+
+ - Cleaning 
+     - What issues did you find and fix?
+         - The data was reviewed for missing and inconsistent values. Missing values in the City field were identified and handled by categorizing them as “Unknown” to prevent the missing records from being excluded from the analysis.
+
+ - Transformation 
+     - What new fields, aggregations, or structures did you create?
+         - Missing values in the City field were handled by replacing the 31 blank entries with “Unknown.” Spending-related data was also structured into meaningful spending categories to support customer segmentation and comparison in Power BI.
+
+ - Analysis 
+      - What statistical structures, queries, or visuals did you use?
+          - The analysis focused on customer demographics, product-category preferences, shopping frequency, spending behavior, financial status, gender, age, marital status, and city tier. Power BI measures, aggregations, and interactive visualizations were used to identify patterns and compare customer segments.
+
+ - Output 
+      - What form did the results take?
+           - The results were presented as an interactive Microsoft Power BI dashboard containing KPI cards, charts, and visual breakdowns of customer behavior and purchasing patterns. The dashboard provides insights into high-value customer segments, product preferences, and potential growth opportunities.
 
 ### Data Cleaning and Transformation 
 Before creating the dashboard the raw data was reviewed and cleaned to ensure that the analysis and visualization were reliable. 
