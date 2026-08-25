@@ -1,5 +1,22 @@
 # Customer Purchasing Behavior analysis 
 
+
+## Table of Content 
+ - [Projects Overview](#projectoverview)
+2. Project Objective
+3. Tools Used
+4. Workflow
+5. Data Workflow
+6. Key Metrics
+7. Data Cleaning & Transformation
+8. Exploratory Data Analysis (EDA)
+9. Key Insights & Visuals
+10. Recommendations
+11. Assumptions
+12. Limitations
+13. Author
+
+
 ### Project Overview 
 An e-commerce retail business, wanted to better understand its customers and the factors influencing their shopping behavior. However, it lacked clear insights into which customer segments spend the most, which products and categories are most preferred, how shopping patterns vary across age, gender, financial status, and city tiers, and where the strongest customer opportunities lie.
 Using Power BI, this project analyzes data from 254 customers to uncover key purchasing patterns, identify high-value customer segments, and highlight growth opportunities that can support more targeted marketing, product, and business decisions.
