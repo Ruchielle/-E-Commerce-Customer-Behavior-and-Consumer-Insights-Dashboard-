@@ -47,18 +47,18 @@ Here are the steps that i took:
 
 ### Exploratry Data Analysis 
  - Who are our customers? 
-    — What age, gender, income level, and location make up our customer base?
+    —  What age, gender, income level, and location make up our customer base?
  - How often do customers shop, and who shops the most? 
-    — Which age group and income group are the most active buyers?
+    —  Which age group and income group are the most active buyers?
  - How much do customers spend, and who are the high value customers? 
-    — Which segments are Low, Medium, or High spenders, and where are they concentrated. 
+    —  Which segments are Low, Medium, or High spenders, and where are they concentrated. 
  - What do customers prefer to buy? 
-    — Which product categories are most popular overall, and does that preference change by gender?
+    —  Which product categories are most popular overall, and does that preference change by gender?
  - Do customers care more about brand or price? 
-    — Are they loyal to brands, or are they price driven shoppers?
+    —  Are they loyal to brands, or are they price driven shoppers?
  - How fast do customers decide to buy? 
-    — Do they make quick decisions, or take time to research before purchasing?
+    —  Do they make quick decisions, or take time to research before purchasing?
  - Where are our customers located, and what kind of city do they live in? 
-    — Which states have the most customers, and are they in big cities (Tier 1) or smaller ones (Tier 2/3)?
+    —  Which states have the most customers, and are they in big cities (Tier 1) or smaller ones (Tier 2/3)?
 
 
