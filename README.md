@@ -141,3 +141,19 @@ Here are the steps that i took:
  - Purchase Decision Time 
       - Most customers make purchasing decisions quickly
            - The Purchase Decision Time visual shows that the majority of customers make their purchasing decisions within a day, indicating relatively short consideration periods for many products.
+
+
+### Recommendations
+ - Target the 20–50 Age Range
+     - Shopping frequency is strongest among customers aged 20–49. Marketing campaigns can therefore focus on this broader age range rather than targeting only the single highest performing age group.
+ 
+ - Personalize Product Recommendations
+     - Repeated searches for the same product can be treated as a signal of customer interest. Products that customers repeatedly search for could be prioritized in personalized recommendations and feeds.
+ 
+ - Focus Growth Efforts on Medium Spenders
+     - Medium spenders represent the largest segment across all city tiers.Tier 2 cities provide an especially strong opportunity because of their high concentration of medium spenders.Promotions, loyalty incentives and targeted offers could be used to encourage these customers to move into the high-spending segment.
+ 
+ - Tailor Secondary Promotions by Gender
+     - Because both genders already show strong interest in clothing, clothing does not necessarily need to be marketed differently by gender.Instead, secondary categories can be personalized:
+	     - Men → Electronics
+	     - Women → Fashion
