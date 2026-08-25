@@ -2,14 +2,14 @@
 
 
 ## Table of Content 
- - [Projects Overview](#projectoverview)
- - [Project Objective](#projectobjective)
+ - [Projects Overview](#project-overview)
+ - [Project Objective](#project-objective)
  - [Tools](#tools) 
- - [Data Workflow](#dataworkflow) 
- - [Key Metrics](#keymetrics)
- - [Data Cleaning and Transformation](#datacleaningandtransformation)
- - [Exploratory Data Analysis](#eploratorydatanalysis)
- - [Key Insights and Visuals](#keyinsightsandvisuals)
+ - [Data Workflow](#data-workflow) 
+ - [Key Metrics](#key-metrics)
+ - [Data Cleaning and Transformation](#data-cleaning-and-transformation)
+ - [Exploratory Data Analysis](#eploratory-data-analysis)
+ - [Key Insights and Visuals](#key-insights-and-visuals)
  - [Recommendations](#recommendation)
  - [Assumptions](#assumptions)
  - [Limitations](#limitations)
