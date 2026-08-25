@@ -155,5 +155,22 @@ Here are the steps that i took:
  
  - Tailor Secondary Promotions by Gender
      - Because both genders already show strong interest in clothing, clothing does not necessarily need to be marketed differently by gender.Instead, secondary categories can be personalized:
-	     - Men → Electronics
-	     - Women → Fashion
+	     - Men  Electronics
+	     - Women  Fashion
+
+
+### Assumptions
+
+ - Customer responses were treated as reliable representations of their stated preferences and shopping behavior.
+ - Average Spending was categorized into Low (<1,000), Medium (1,000–5,000), and High (>5,000) segments for customer analysis.
+ - Missing City values were treated as “Unknown” rather than excluded from the analysis.
+ - Non applicable product preference fields were treated as conditional responses rather than missing customer records.
+
+
+### Limitations
+
+ - The analysis is based on 254 customer responses, so the findings may not generalize to the wider e-commerce market.
+ - The dataset is based on customer reported information, meaning stated preferences may differ from actual purchasing behavior.
+ - 31 City values were missing, which limited complete geographical analysis.
+ - The dataset does not contain detailed transaction level information, limiting the ability to assess actual revenue contribution, purchase value, or customer lifetime value.
+ - The dataset focuses on customers in India, so the findings may not directly apply to other markets.
