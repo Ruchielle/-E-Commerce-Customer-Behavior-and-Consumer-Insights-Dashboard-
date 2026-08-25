@@ -47,7 +47,7 @@ Here are the steps that i took:
 
 ### Exploratry Data Analysis 
  - Who are our customers? 
-     —  What age, gender, income level, and location make up our customer base?
+     - What age, gender, income level, and location make up our customer base?
  - How often do customers shop, and who shops the most? 
      —  Which age group and income group are the most active buyers?
  - How much do customers spend, and who are the high value customers? 
