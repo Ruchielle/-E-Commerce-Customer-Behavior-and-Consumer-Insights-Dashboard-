@@ -16,6 +16,8 @@
  - [Author](#author)
 
 
+![image alt](image_url)499c2d5d-60a2-4acc-b080-90337b2004fe.jpeg
+
 ### Project Overview 
 An e-commerce retail business, wanted to better understand its customers and the factors influencing their shopping behavior. However, it lacked clear insights into which customer segments spend the most, which products and categories are most preferred, how shopping patterns vary across age, gender, financial status, and city tiers, and where the strongest customer opportunities lie.
 Using Power BI, this project analyzes data from 254 customers to uncover key purchasing patterns, identify high-value customer segments, and highlight growth opportunities that can support more targeted marketing, product, and business decisions.
